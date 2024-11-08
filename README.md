@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on EasyDeploy<br>👯 I’m looking to collaborate on DevOps and Cloud Engineering Contents <br>🤝 I’m looking for help with<br>🌱 I’m currently learning Kubernetes<br>💬 Ask me about DevOps & Cloud Computing <br>⚡ Fun fact Be smart
+🔭 I’m currently working on EasyDeploy<br>👯 I’m looking to collaborate on DevOps and Cloud Engineering Contents <br>🤝 I’m looking for help with Teams<br>🌱 I’m currently learning Kubernetes Azure and GCP<br>💬 Ask me about DevOps & Cloud Computing <br>⚡ Fun fact Be smart
 
 
 ## 🌐 Socials:
